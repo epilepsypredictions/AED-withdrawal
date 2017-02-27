@@ -1,4 +1,4 @@
-# AED withdrawal
+# AED withdrawal relapse risk calculator
 
 This page contains an Excel tool to aid in the decision to withdraw anti-epileptic 
 drugs. The tool predicts the risk of seizure recurrence at two and five years,
