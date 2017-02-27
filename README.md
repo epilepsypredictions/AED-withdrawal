@@ -10,8 +10,9 @@ these nomograms is described in the following publication: # manuscript is in
 submission, the reference will be added after publication #
 
 
-      
-Download the Excel tool for free.
+# Download instructions
+1. Click on the file "AED withdrawal relapse risk calculator.xlsx"
+2. Click on "Download" to save the tool on your computer
 
 --------------------------------------------------------------------------------
 Do you have epilepsy and are you considering to stop taking your anti-epileptic
