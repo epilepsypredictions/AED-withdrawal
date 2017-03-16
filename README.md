@@ -9,10 +9,12 @@ The tool is an adaptation of two nomograms. The development and validation of
 these nomograms is described in the following publication: # manuscript is in 
 submission, the reference will be added after publication #
 
-
 # Download instructions
 1. Click on the file "AED withdrawal relapse risk calculator.xlsx" above
 2. Click on "Download" to save the tool on your computer
+
+Latest update of calculator: March 16, 2017. 
+Reason for update: change in lay-out to increase user-friendliness.
 
 --------------------------------------------------------------------------------
 Do you have epilepsy and are you considering to stop taking your anti-epileptic
