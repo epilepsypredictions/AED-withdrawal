@@ -6,15 +6,15 @@ and the chance of being seizure-free at ten years after starting anti-epileptic
 drug withdrawal. 
 
 The tool is an adaptation of two nomograms. The development and validation of 
-these nomograms is described in the following publication: # manuscript is in 
-submission, the reference will be added after publication #
+these nomograms is described in the following publication: 
+Lamberink HJ, Otte WM, Geerts AT, Pavlovic M, Ramos-Lizana J, Marson AG, Overweg J, Sauma L, Specchio LM, Tennison M, Cardoso TMO, Shinnar  S, Schmidt D, Geleijns K, Braun KPJ. Individualised prediction model of seizure recurrence and long-term outcomes after withdrawal of antiepileptic drugs in seizure-free patients – a systematic review and individual participant data meta-analysis. Lancet Neurology 2017; published online May 5, 2017: http://dx.doi.org/10.1016/S1474-4422(17)30114-X
 
 # Download instructions
 1. Click on the file "AED withdrawal relapse risk calculator.xlsx" above
 2. Click on "Download" to save the tool on your computer
 
-Latest update of calculator: March 16, 2017. 
-Reason for update: change in lay-out to increase user-friendliness.
+Latest update of calculator: May 10, 2017. 
+Reason for update: addition of reference to journal article
 
 --------------------------------------------------------------------------------
 Do you have epilepsy and are you considering to stop taking your anti-epileptic
