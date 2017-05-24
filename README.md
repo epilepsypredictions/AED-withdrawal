@@ -9,7 +9,7 @@ The tool is also available as web-based application at http://epilepsyprediction
 The tool is an adaptation of two nomograms. The development and validation of these nomograms is described in the following publication: 
 Lamberink HJ, Otte WM, Geerts AT, Pavlovic M, Ramos-Lizana J, Marson AG, Overweg J, Sauma L, Specchio LM, Tennison M, Cardoso TMO, Shinnar  S, Schmidt D, Geleijns K, Braun KPJ. Individualised prediction model of seizure recurrence and long-term outcomes after withdrawal of antiepileptic drugs in seizure-free patients – a systematic review and individual participant data meta-analysis. Lancet Neurology 2017; published online May 5, 2017: http://dx.doi.org/10.1016/S1474-4422(17)30114-X
 
-The edited article can be found on http://www.thelancet.com/neurology
+The edited article can be found on http://www.thelancet.com/neurology <br>
 The peer-reviewed author version of the publication is added to the current page.
 
 # Download instructions
